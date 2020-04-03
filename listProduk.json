@@ -1,0 +1,46 @@
+{
+  "product": [
+    {
+      "productName": "LG Mesin Cuci Top Load T2312VS2W",
+      "price": "4742000",
+      "img": "https://www.lg.com/id/images/mesin-cuci/md06065536/gallery/T2312VS2W_Front_Load_Washers_D01.jpg",
+      "stock": 92,
+      "id": 1
+    },
+    {
+      "img": "https://www.lg.com/id/images/mesin-cuci/md06050356/gallery/P905RTB_All_Washers_D01.jpg",
+      "productName": "SANKEN Mesin Cuci Twin Tub TW-880",
+      "price": "1462000",
+      "stock": 20,
+      "id": 2
+    },
+    {
+      "img": "https://www.lg.com/id/images/mesin-cuci/md05826169/gallery/P-800N-desk.jpg",
+      "productName": "LG Mesin Cuci Front Load TWC1409H3E",
+      "price": "10290000",
+      "stock": 19,
+      "id": 3
+    },
+    {
+      "img": "https://www.lg.com/id/images/mesin-cuci/md06050196/gallery/P850RT_Mesin_Cuci_2_Tabung_D1.jpg",
+      "productName": "SANKEN Mesin Cuci Twin Tub TW-885",
+      "price": "1467000",
+      "stock": 19,
+      "id": 4
+    },
+    {
+      "productName": "ELECTROLUX Mesin Cuci Front Load EWT754XW",
+      "price": "3563000",
+      "img": "https://www.lg.com/id/images/mesin-cuci/md05826169/gallery/P-800N-desk.jpg",
+      "stock": 19,
+      "id": 5
+    },
+    {
+      "img": "https://www.lg.com/id/images/mesin-cuci/md05877958/gallery/T2175VSAM_Desk01_140917.jpg",
+      "productName": "LG Mesin Cuci Top Load [T2175VSAM]",
+      "price": "3699000",
+      "stock": 20,
+      "id": 6
+    }
+  ]
+}

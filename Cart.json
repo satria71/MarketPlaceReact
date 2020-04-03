@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "productName": "LG Mesin Cuci Front Load TWC1409H3E",
+      "price": "10290000",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "productName": "SANKEN Mesin Cuci Twin Tub TW-885",
+      "price": "1467000",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "productName": "ELECTROLUX Mesin Cuci Front Load EWT754XW",
+      "price": "3563000",
+      "quantity": 1
+    }
+  ]
+}
